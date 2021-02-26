@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+# custom files
+custom/
+
+>>>>>>> cfb86cd08d3b24fd4b59d0d35b3af1f589c891fa
 # temp files directories
 cache/
 log/
+*.swp
+.DS_Store
